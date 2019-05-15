@@ -1,0 +1,4 @@
+items.py文件用于定义爬虫字段
+xiaozhuspider.py文件用于数据爬取
+pipelines.py文件用于爬虫数据的处理
+settings.py文件用于设置爬虫的配置
